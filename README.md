@@ -1,3 +1,18 @@
+# Introduction
+
+Project created using Angular 7 if you are using Angular-Cli version below 7 then update your angular-cli `npm install -g @angular/cli@latest`.
+
+## Installation
+
+1) firstly do `npm install` 
+2) start project `ng serve --open`
+3) to do testing use `ng test`
+
+# Google Integration
+follow the steps to [Integrate Google](https://developers.google.com/identity/sign-in/web/sign-in)
+
+
+
 # GoogleAngular7
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.1.4.
